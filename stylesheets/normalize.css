@@ -13,33 +13,33 @@ font-size:16px;
 }
 
 .banner{
-	background: url(images/banner.jpg)  no-repeat;
+	background: url(https://github.com/lilydia/WeActSociety/blob/gh-pages/images/banner.jpg?raw=true)  no-repeat;
 	width: 960px;
 	height: 333px;
 }
 
 .slogan{
-	background: url(images/phrase.png)  no-repeat;
+	background: url(https://www.dropbox.com/s/mbzfvpsl2e6wrca/phrase.png?dl=0)  no-repeat;
 	width:1200px;
 	height:100px;
 	margin:50px 200px 10px 50px;
 }
 
 .pic{
-	background: url(images/pic.jpg)  no-repeat;
+	background: url(https://www.dropbox.com/s/j7lrg45tzokao1w/pic.jpg?dl=0)  no-repeat;
 	width: 343px;
 	height: 270px;
 }
 
 .founder{
-	background: url(founder.jpg)  no-repeat;
+	background: url(https://www.dropbox.com/s/rht7nzyooe1lgxn/founder.jpg?dl=0)  no-repeat;
 	width: 250px;
 	height: 300px;
 }
 
 header h1 {
 	margin:10px 10px 10px;
-	background: url(logo.png) no-repeat;
+	background: url(https://github.com/lilydia/WeActSociety/blob/gh-pages/images/logo.png?raw=true) no-repeat;
 	text-indent:-999999px;
 	width: 400px;
 	height: 55px;
