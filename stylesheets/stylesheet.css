@@ -209,3 +209,10 @@ svg {
 */
   overflow: hidden;
 }
+
+body {
+background-image: url(https://www.dropbox.com/s/m4nh8v1qit5ywec/bk.jpg?dl=0);
+background-repeat: no-repeat;
+background-position: left top;
+font-size:16px;
+}
