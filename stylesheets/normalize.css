@@ -4,41 +4,42 @@
 ******************
 */
 
+
 body {
-background-image: url(https://www.dropbox.com/s/m4nh8v1qit5ywec/bk.jpg?dl=0);
+background-image: url(images/bk.jpg);
 background-repeat: no-repeat;
 background-position: left top;
 font-size:16px;
 }
 
 .banner{
-	background: url(https://www.dropbox.com/s/9yxyhthx8txondn/banner.jpg?dl=0)  no-repeat;
+	background: url(images/banner.jpg)  no-repeat;
 	width: 960px;
 	height: 333px;
 }
 
 .slogan{
-	background: url(https://www.dropbox.com/s/mbzfvpsl2e6wrca/phrase.png?dl=0)  no-repeat;
+	background: url(images/phrase.png)  no-repeat;
 	width:1200px;
 	height:100px;
 	margin:50px 200px 10px 50px;
 }
 
 .pic{
-	background: url(https://www.dropbox.com/s/j7lrg45tzokao1w/pic.jpg?dl=0)  no-repeat;
+	background: url(images/pic.jpg)  no-repeat;
 	width: 343px;
 	height: 270px;
 }
 
 .founder{
-	background: url(https://www.dropbox.com/s/rht7nzyooe1lgxn/founder.jpg?dl=0)  no-repeat;
+	background: url(founder.jpg)  no-repeat;
 	width: 250px;
 	height: 300px;
 }
 
 header h1 {
 	margin:10px 10px 10px;
-	background: url(https://www.dropbox.com/s/0xmlvrsk9bpogim/logo.png?dl=0) no-repeat;
+	background: url(logo.png) no-repeat;
 	text-indent:-999999px;
 	width: 400px;
 	height: 55px;
